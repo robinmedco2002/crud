@@ -1,0 +1,28 @@
+
+.paperStyle{
+    padding: 40px;
+    height: 80vh;
+    width: 380px;
+    margin: 40px auto;
+}
+
+.btnStyle{
+    margin: 8px 0;
+}
+
+ 
+      label {
+        display: inline-block;
+        width: 250px;
+        color: #333;
+      }
+      input {
+        padding: 5px 10px;
+      }
+
+      .cruddiv{
+       
+      
+        width: 80%;
+        margin: 10px auto;
+    }
